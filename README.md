@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Top Contributed Repos
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Customer-Details-Manager&theme=nightowl)
-![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Simple-defense-system-using-Java-Swing&theme=nightowl)
+![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha/Simple-defense-system-using-Java-Swing=nightowl)
 
 ### GitHub Activity
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=nathija-nimantha&theme=dark)

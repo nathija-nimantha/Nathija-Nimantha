@@ -41,7 +41,4 @@ Here are some ideas to get you started:
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Customer-Details-Manager&theme=nightowl)
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Weather-App&theme=nightowl)
 
-### GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=nathija-nimantha&theme=dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nathija-nimantha&color=green)

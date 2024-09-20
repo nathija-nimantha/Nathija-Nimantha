@@ -34,6 +34,6 @@
 
 ### Top Contributed Repos
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Customer-Details-Manager&theme=nightowl)
-![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Weather-App&theme=nightowl)
+![Your Contributions](https://github.com/nathija-nimantha/Student-Management-System-SpingBoot-BFF&theme=nightowl)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nathija-nimantha&color=green)

@@ -25,7 +25,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/nathija-nimantha?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nathija-nimantha?style=social)
 
----
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathija-nimantha&show_icons=true&theme=nightowl)
@@ -35,11 +34,6 @@
 
 ### Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### Contribution Snake 🐍
-![Snake animation](https://github.com/nathija-nimantha/nathija-nimantha/blob/output/snake.svg)
 
 ---
 

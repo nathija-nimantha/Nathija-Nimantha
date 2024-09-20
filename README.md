@@ -8,8 +8,6 @@
 - 😄 Pronouns: he/him.
 - 🌱 I’m always looking to learn new technologies and collaborate on open-source projects.
 
----
-
 # Welcome to My GitHub Profile!
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">

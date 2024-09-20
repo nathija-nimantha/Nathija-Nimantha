@@ -10,16 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-    - name: Generate Snake
-      uses: Platane/snk@v2.0.0
-      with:
-        github_user_name: nathija-nimantha
-        outputs: dist/snake.svg
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: nathija-nimantha
+          outputs: dist/snake.svg
 
-    - name: Push Snake to the output branch
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        branch: output
-        file: dist/snake.svg
+      - name: Push Snake to the output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          file: dist/snake.svg

@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him.
 - 🌱 I’m always looking to learn new technologies and collaborate on open-source projects.
 
-
+---
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
@@ -27,7 +27,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/nathija-nimantha?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nathija-nimantha?style=social)
 
-
+---
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathija-nimantha&show_icons=true&theme=nightowl)

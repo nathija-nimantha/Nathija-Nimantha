@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Snake Animation
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
         uses: Platane/snk@v2
@@ -20,7 +20,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload the Snake Animation
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist/snake.svg

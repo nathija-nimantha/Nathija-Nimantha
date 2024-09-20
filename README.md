@@ -41,7 +41,7 @@
 ---
 
 ### Contribution Snake 🐍
-![Snake animation](https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nathija-nimantha/nathija-nimantha/blob/output/snake.svg)
 
 ---
 

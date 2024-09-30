@@ -1,13 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently studying.
-- 📫 Reach me through:
-  - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com)
-  - [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com)
-- 😄 Pronouns: he/him.
-- 🌱 I’m always looking to learn new technologies and collaborate on open-source projects.
-
 # Welcome to My GitHub Profile!
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">

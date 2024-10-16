@@ -28,7 +28,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nathija-nimantha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nathija-nimantha&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Customer-Details-Manager&theme=nightowl)
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Student-Management-System-SpingBoot-BFF&theme=nightowl)
 

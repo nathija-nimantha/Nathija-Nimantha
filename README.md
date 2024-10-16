@@ -25,10 +25,6 @@
 ### Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathija-nimantha&layout=compact&theme=nightowl)
 
 ### Top Contributed Repos
 ![Your Contributions](https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=Customer-Details-Manager&theme=nightowl)

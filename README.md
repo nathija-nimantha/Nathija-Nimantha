@@ -102,7 +102,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/nathija-nimantha/Nathija-Nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---

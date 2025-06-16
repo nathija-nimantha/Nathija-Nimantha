@@ -86,6 +86,25 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="vite" width="50" height="50"/></a>
 </p>
 
+---
+
+<!-- Profile Summary -->
+<table align="center">
+<tr border="none">
+<td align="center" width="100%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathija-nimantha&theme=github_dark" alt="Nathija's Profile Summary" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 

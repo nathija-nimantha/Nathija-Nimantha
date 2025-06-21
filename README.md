@@ -1,28 +1,83 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi 👋, I'm Nathija Nimantha</h1>
-<h3 align="center">Full-Stack Developer in Training | Exploring the Infinite Possibilities of Code</h3>
+# Hey there! 👋 I'm Nathija Nimantha
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%26+Mobile+App+Explorer+%F0%9F%93%B1;Code+Wizard+in+Training+%E2%9C%A8;Dark+Mode+Enthusiast+%F0%9F%8C%99" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathija-nimantha&label=Profile%20views&color=0e75b6&style=flat" alt="nathija-nimantha" />
+  <img src="https://komarev.com/ghpvc/?username=nathija-nimantha&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nathija-nimantha?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I'm currently learning **React and Mobile App Development**
+---
 
-- 🧑‍🎓 I'm studying at the **Institute of Computer Engineering Technology (iCET)**
+## 🚀 About Me
 
-- 💬 Ask me about **Java, JavaScript, or Full-Stack Development**
+```python
+class NathijaNimantha:
+    def __init__(self):
+        self.name = "Nathija Nimantha"
+        self.role = "Full-Stack Developer in Training"
+        self.location = "Sri Lanka 🇱🇰"
+        self.education = "Institute of Computer Engineering Technology (iCET)"
+        self.current_focus = ["React", "Mobile App Development", "Full-Stack Magic"]
+        self.fun_fact = "I debug code like Sherlock Holmes solves mysteries 🕵️‍♂️"
+        
+    def say_hello(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+    
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Code",
+            "afternoon": "🐛 Debug like a detective", 
+            "evening": "📚 Learn new tech",
+            "night": "🌙 Dream in code"
+        }
+    
+    def current_status(self):
+        return "Turning coffee into code, one commit at a time ⚡"
 
-- 📫 How to reach me: **nathijanimantha10@gmail.com**
+# Initialize the developer
+dev = NathijaNimantha()
+dev.say_hello()
+```
 
-- ⚡ Fun fact: **Dark mode is my favorite mode—both in code editors and life.**
+---
+
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Currently Learning
+- **React Ecosystem** - Hooks, Context, Redux
+- **Mobile Development** - Flutter & React Native
+- **Cloud Technologies** - Firebase, AWS
+- **DevOps Basics** - Docker, CI/CD
+
+### 🔭 Working On
+- 🌐 Personal portfolio with React & Tailwind
+- 📱 Cross-platform mobile apps
+- 🛠️ Full-stack CRUD applications
+- 🎮 Fun side projects (stay tuned!)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+### 🎯 2024 Goals
+- [ ] Master React & Node.js ecosystem
+- [ ] Build 5 full-stack projects
+- [ ] Contribute to open-source projects
+- [ ] Launch my first mobile app
+- [ ] Write technical blog posts
+
+### 💡 Fun Projects Ideas
+- 🤖 AI-powered study assistant
+- 🎵 Music recommendation system
+- 🍕 Food delivery app clone
+- 📊 Personal finance tracker
 
 </td>
 </tr>
@@ -30,76 +85,118 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathija-nimantha" alt="nathija-nimantha" /></a> </p>
+## 🛠️ Tech Arsenal
 
-<td width="50%" align="center">
+<div align="center">
+
+### Frontend Superpowers 💪
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database 🗄️
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Mobile Development 📱
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Tools & DevOps 🔧
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathija-nimantha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathija-nimantha&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nathija-nimantha&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathija-nimantha&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nathija-nimantha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nathija-nimantha/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=portfolio-website&theme=tokyonight" alt="Portfolio Website"/>
+  </a>
+  <a href="https://github.com/nathija-nimantha/react-todo-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=react-todo-app&theme=tokyonight" alt="React Todo App"/>
+  </a>
+</div>
+
+---
+
+## 🎵 Coding Playlist
+
+When I'm in the zone, you'll find me listening to:
+- 🎧 Lo-fi Hip Hop (for deep focus sessions)
+- 🎸 Progressive Rock (when debugging complex issues)
+- 🎹 Synthwave (for late-night coding marathons)
+- ☕ Coffee Shop Ambience (for morning productivity)
+
+---
+
+## 📚 Learning Resources I Love
+
+- 📖 **Books**: Clean Code, You Don't Know JS, React Documentation
+- 🎓 **Courses**: Udemy, Coursera, freeCodeCamp
+- 📺 **YouTube**: Traversy Media, Web Dev Simplified, Fireship
+- 🌐 **Blogs**: dev.to, Medium, Stack Overflow (obviously!)
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathija-nimantha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nathija-nimantha&theme=merko" alt="GitHub Streak"  /> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathija-nimantha)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathija-nimantha)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nwooy_to_morrow)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathijanimantha10@gmail.com)
   
-</td>
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathija-nimantha&theme=dark&hide_border=false&no-bg=true&langs_count=10"/>
-  
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/nathija-nimantha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/nathija-nimantha" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nwooy_to_morrow/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="instagram" height="50" width="50" /></a>
-</p>
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="50" height="50"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="vite" width="50" height="50"/></a>
-</p>
-
----
-
-<!-- Profile Summary -->
-<table align="center">
-<tr border="none">
-<td align="center" width="100%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathija-nimantha&theme=github_dark" alt="Nathija's Profile Summary" />
-
-</td>
-</tr>
-</table>
-
----
+## 🐍 GitHub Activity Snake
 
 <div align="center">
   <img src="https://github.com/nathija-nimantha/Nathija-Nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
@@ -107,16 +204,20 @@
 
 ---
 
+## ☕ Support My Work
+
+If you like what I do, consider buying me a coffee! ☕
+
 <div align="center">
-  <h3>Random Dev Quote</h3> <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
-</div> <br>
-
-
+  <a href="https://www.buymeacoffee.com/nathija" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/nathija"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=62"/>
+</div>
 
-
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**

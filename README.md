@@ -1,8 +1,9 @@
 # Hey there! 👋 I'm Nathija Nimantha
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%26+Mobile+App+Explorer+%F0%9F%93%B1;Code+Wizard+in+Training+%E2%9C%A8;Dark+Mode+Enthusiast+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=👨‍💻+Full-Stack+Developer;💼+Open+to+Work+%7C+Remote+%7C+Freelance;⚛️+React+%26+Flutter+Developer;📱+Mobile+App+Developer;🧠+Always+Learning+and+Building;🌐+Passionate+about+Clean+UI+%2B+UX" alt="Typing SVG" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nathija-nimantha&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />

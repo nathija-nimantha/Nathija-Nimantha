@@ -146,11 +146,11 @@ dev.say_hello()
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/nathija-nimantha/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=portfolio-website&theme=tokyonight" alt="Portfolio Website"/>
+  <a href="https://github.com/nathija-nimantha/my-portfolio-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=my-portfolio-v2&theme=tokyonight" alt="My Portfolio V2"/>
   </a>
-  <a href="https://github.com/nathija-nimantha/react-todo-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=react-todo-app&theme=tokyonight" alt="React Todo App"/>
+  <a href="https://github.com/nathija-nimantha/MOS-Burgers-Order-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=MOS-Burgers-Order-Management&theme=tokyonight" alt="MOS Burgers Order Management"/>
   </a>
 </div>
 

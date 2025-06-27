@@ -208,9 +208,12 @@ When I'm in the zone, you'll find me listening to:
 
 If you like what I do, consider buying me a coffee! ☕
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.buymeacoffee.com/nathija.nimantha" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/M4M3ZEEZO" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" alt="Support me on Ko-fi">
   </a>
 </div>
 

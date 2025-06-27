@@ -100,7 +100,7 @@ dev.say_hello()
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Development Icons" />
 
 ### Tools & DevOps 🔧  
-<img src="https://skillicons.dev/icons?i=git,vite,vscode&theme=dark" alt="Tools Icons" />
+<img src="https://skillicons.dev/icons?i=git,vite,vscode&theme=dark" alt="Tools & DevOps Icons" />
 
 </div>
 

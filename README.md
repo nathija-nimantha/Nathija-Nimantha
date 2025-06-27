@@ -209,7 +209,7 @@ When I'm in the zone, you'll find me listening to:
 If you like what I do, consider buying me a coffee! ☕
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/nathija" target="_blank">
+  <a href="https://www.buymeacoffee.com/nathija.nimantha" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </div>

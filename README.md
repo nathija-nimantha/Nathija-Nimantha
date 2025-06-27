@@ -91,16 +91,28 @@ dev.say_hello()
 <div align="center">
 
 ### Frontend Superpowers 💪  
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind&theme=dark" alt="Frontend Icons" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Icons" />
 
 ### Backend & Database 🗄️  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,firebase&theme=dark" alt="Backend Icons" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,firebase,supabase,nestjs,postgres,php,laravel&theme=dark" alt="Backend Icons" />
 
 ### Mobile Development 📱  
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Development Icons" />
 
+### Machine Learning & AI 🤖  
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="ML & AI Icons" />
+
 ### Tools & DevOps 🔧  
-<img src="https://skillicons.dev/icons?i=git,vite,vscode,postman,npm&theme=dark" alt="Tools & DevOps Icons" />
+<img src="https://skillicons.dev/icons?i=git,vite,postman,npm&theme=dark" alt="Tools & DevOps Icons" />
+
+### IDEs & Editors 🖥️  
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,phpstorm,pycharm,clion&theme=dark" alt="IDEs & Editors Icons" />
+
+### Online IDE & Platforms ☁️  
+<img src="https://skillicons.dev/icons?i=replit,vercel,netlify&theme=dark" alt="Online IDE & Platforms Icons" />
+
+### Productivity & Docs 📚  
+<img src="https://skillicons.dev/icons?i=notion,md&theme=dark" alt="Productivity & Docs Icons" />
 
 </div>
 

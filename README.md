@@ -135,6 +135,13 @@ print(nathija.get_availability())
 
 </details>
 
+<details>
+<summary>🐍 <strong> Snake</strong></summary>
+
+  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+</details>
+
 ---
 
 ## 📊 GitHub Performance
@@ -243,98 +250,6 @@ print(nathija.get_availability())
   <img src="https://img.shields.io/badge/🌍-Remote%20Friendly-blue?style=for-the-badge" alt="Remote"/>
   <img src="https://img.shields.io/badge/⚡-Quick%20Learner-yellow?style=for-the-badge" alt="Quick Learner"/>
 </div>
-
----
-
-<details>
-<summary>📈 <strong>Detailed GitHub Analytics</strong></summary>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathija-nimantha&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nathija-nimantha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/nathija-nimantha/Nathija-Nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-</details>
-
-<details>
-<summary>⚡ <strong>My Development Arsenal</strong></summary>
-
-<br>
-
-<div align="center">
-
-### Frontend Superpowers 💪  
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css,tailwind,bootstrap,sass,figma&theme=dark" alt="Frontend Icons" />
-
-### Backend & Database 🗄️  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,firebase,supabase,nestjs,postgres,php,laravel,mongodb&theme=dark" alt="Backend Icons" />
-
-### Mobile Development 📱  
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,androidstudio&theme=dark" alt="Mobile Development Icons" />
-
-### Machine Learning & AI 🤖  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark" alt="ML & AI Icons" />
-
-### Tools & DevOps 🔧  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
-
-### IDEs & Editors 🖥️  
-<img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,pycharm,clion,vim&theme=dark" alt="IDEs & Editors Icons" />
-
-### Cloud & Platforms ☁️  
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,firebase,supabase&theme=dark" alt="Cloud Platforms Icons" />
-
-### Design & Productivity 🎨  
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,notion,markdown&theme=dark" alt="Design & Productivity Icons" />
-
-</div>
-
-</details>
-
-<details>
-<summary>☕ <strong>Support My Work</strong></summary>
-
-<br>
-
-<div align="center">
-  
-  **Enjoying my projects? Consider supporting my work!**
-  
-  <a href="https://www.buymeacoffee.com/nathija.nimantha" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  
-  <a href="https://ko-fi.com/M4M3ZEEZO" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" alt="Support me on Ko-fi">
-  </a>
-  
-  <br><br>
-  
-  **Your support helps me:**
-  - 💻 Dedicate more time to open-source projects
-  - 📚 Invest in learning new technologies
-  - ☕ Stay caffeinated during late-night coding sessions
-  - 🚀 Create better tools and resources for the community
-  
-</div>
-
-</details>
-
-<details>
-<summary>🐍 <strong> Snake</strong> 🐍</summary>
-
-  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
-
-</details>
 
 ---
 

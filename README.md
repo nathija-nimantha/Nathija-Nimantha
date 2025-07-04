@@ -91,7 +91,7 @@ print(nathija.get_availability())
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark" alt="ML & AI Icons" />
 
 **Tools & DevOps 🔧**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vite,webpack,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
 
 **IDEs & Editors 🖥️**  
 <img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,pycharm,clion&theme=dark" alt="IDEs & Editors Icons" />

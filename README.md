@@ -209,7 +209,7 @@ print(nathija.get_availability())
   
 </div>
 
-### 📅 2024 Roadmap
+### 📅 2025 Roadmap
 
 <div align="center">
   

@@ -21,7 +21,6 @@ class Developer:
     def __init__(self):
         self.name = "Nathija Nimantha"
         self.role = "Full-Stack Developer in Training"
-        self.location = "Sri Lanka 🇱🇰"
         self.status = "Open to Work - Remote | Freelance | Full-time"
         self.passions = ["Clean Code", "Mobile Apps", "Problem Solving"]
         self.currently_learning = ["React Ecosystem", "Flutter", "Cloud Technologies"]

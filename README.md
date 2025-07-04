@@ -259,7 +259,7 @@ print(nathija.get_availability())
 </details>
 
 <details>
-<summary>🛠️ <strong>Complete Tech Arsenal</strong></summary>
+<summary>⚡ <strong>My Development Arsenal</strong></summary>
 
 <br>
 

@@ -77,31 +77,9 @@ print(nathija.get_availability())
 <br>
 
 <div align="center">
-  
-  ### 🎨 Frontend Magic
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
-  
-  ### ⚙️ Backend Power
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,firebase,postgres&theme=dark" alt="Backend" />
-  
-  ### 📱 Mobile Excellence
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" alt="Mobile" />
-  
-  ### 🔧 Development Tools
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,npm,vite&theme=dark" alt="Tools" />
-  
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,laravel,php,nestjs,pytorch&theme=dark" alt="Additional Skills" />
-</div>
-
-### Complete Technology Stack
-
-<div align="center">
 
 **Frontend Superpowers 💪**  
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css,tailwind,bootstrap,sass,figma&theme=dark" alt="Frontend Icons" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css,tailwind,bootstrap,figma&theme=dark" alt="Frontend Icons" />
 
 **Backend & Database 🗄️**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,firebase,supabase,nestjs,postgres,php,laravel,mongodb&theme=dark" alt="Backend Icons" />
@@ -116,13 +94,13 @@ print(nathija.get_availability())
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vite,webpack,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
 
 **IDEs & Editors 🖥️**  
-<img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,pycharm,clion,vim&theme=dark" alt="IDEs & Editors Icons" />
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,pycharm,clion&theme=dark" alt="IDEs & Editors Icons" />
 
 **Cloud & Platforms ☁️**  
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,firebase,supabase&theme=dark" alt="Cloud Platforms Icons" />
 
 **Design & Productivity 🎨**  
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,notion,markdown&theme=dark" alt="Design & Productivity Icons" />
+<img src="https://skillicons.dev/icons?i=figma,xd,notion,markdown&theme=dark" alt="Design & Productivity Icons" />
 
 </div>
 
@@ -300,7 +278,7 @@ print(nathija.get_availability())
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark" alt="ML & AI Icons" />
 
 ### Tools & DevOps 🔧  
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vite,webpack,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,postman,npm,yarn&theme=dark" alt="Tools & DevOps Icons" />
 
 ### IDEs & Editors 🖥️  
 <img src="https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,idea,pycharm,clion,vim&theme=dark" alt="IDEs & Editors Icons" />

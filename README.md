@@ -329,6 +329,13 @@ print(nathija.get_availability())
 
 </details>
 
+<details>
+<summary>☕ <strong>🐍 Snake 🐍</strong></summary>
+
+  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+</details>
+
 ---
 
 <div align="center">

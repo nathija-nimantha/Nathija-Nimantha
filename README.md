@@ -114,11 +114,11 @@ print(nathija.get_availability())
   
   **Enjoying my projects? Consider supporting my work!**
   
-  <a href="https://www.buymeacoffee.com/nathija.nimantha" target="_blank">
+  <a href="https://www.buymeacoffee.com/nathija.nimantha" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
   
-  <a href="https://ko-fi.com/M4M3ZEEZO" target="_blank">
+  <a href="https://ko-fi.com/M4M3ZEEZO" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="Support me on Ko-fi">
   </a>
   

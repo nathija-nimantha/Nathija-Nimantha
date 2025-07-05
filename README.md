@@ -175,6 +175,18 @@ print(nathija.get_availability())
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/nathija-nimantha/generative-ai-for-etsy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=generative-ai-for-etsy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Generative AI for Etsy"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nathija-nimantha/SkyScope-Weather-Intelligence">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=SkyScope-Weather-Intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="SkyScope - Weather Intelligence"/>
+        </a>
+      </td>
+    </tr>
   </table>
   
 </div>

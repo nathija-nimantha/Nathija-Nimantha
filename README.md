@@ -162,32 +162,32 @@ print(nathija.get_availability())
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/nathija-nimantha/my-portfolio-v2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=my-portfolio-v2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Portfolio V2"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nathija-nimantha/MOS-Burgers-Order-Management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=MOS-Burgers-Order-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="MOS Burgers"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/nathija-nimantha/generative-ai-for-etsy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=generative-ai-for-etsy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Generative AI for Etsy"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nathija-nimantha/SkyScope-Weather-Intelligence">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=SkyScope-Weather-Intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="SkyScope - Weather Intelligence"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nathija-nimantha/my-portfolio-v2" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=my-portfolio-v2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="420" height="110" alt="Portfolio V2"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nathija-nimantha/MOS-Burgers-Order-Management" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=MOS-Burgers-Order-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="420" height="110" alt="MOS Burgers"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nathija-nimantha/generative-ai-for-etsy" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=generative-ai-for-etsy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="420" height="110" alt="Generative AI for Etsy"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nathija-nimantha/SkyScope-Weather-Intelligence" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathija-nimantha&repo=SkyScope-Weather-Intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="420" height="110" alt="SkyScope - Weather Intelligence"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
 </div>
 

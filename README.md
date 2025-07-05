@@ -119,7 +119,7 @@ print(nathija.get_availability())
   </a>
   
   <a href="https://ko-fi.com/M4M3ZEEZO" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" alt="Support me on Ko-fi">
+    <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="Support me on Ko-fi">
   </a>
   
   <br><br>
@@ -129,15 +129,8 @@ print(nathija.get_availability())
   - 📚 Invest in learning new technologies
   - ☕ Stay caffeinated during late-night coding sessions
   - 🚀 Create better tools and resources for the community
-  
+
 </div>
-
-</details>
-
-<details>
-<summary>🐍 <strong> Snake</strong></summary>
-
-  <img src="https://github.com/nathija-nimantha/nathija-nimantha/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 </details>
 

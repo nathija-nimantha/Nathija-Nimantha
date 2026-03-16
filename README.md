@@ -138,22 +138,9 @@ print(nathija.get_availability())
 
 ## 📊 GitHub Performance
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nathija-nimantha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=nathija-nimantha&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathija-nimantha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=300" />
-</div>
+![GitHub Stats](https://github-cards-steel.vercel.app/api/stats?username=nathija-nimantha&theme=tokyonight)
+![Top Languages](https://github-cards-steel.vercel.app/api/langs?username=nathija-nimantha&theme=tokyonight&count=6)
+![GitHub Streak](https://github-cards-steel.vercel.app/api/streak?username=nathija-nimantha&theme=tokyonight)
 
 
 ---

@@ -129,7 +129,7 @@ print(nathija.introduce_myself())
 
 ---
 
-## <p align="center">📊 GitHub Performance</p>
+## <p>📊 GitHub Performance</p>
 
 <p align="center">
   <img src="https://github-cards-steel.vercel.app/api/stats?username=nathija-nimantha&theme=tokyonight" alt="GitHub Stats" />

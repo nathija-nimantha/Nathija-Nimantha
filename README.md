@@ -207,12 +207,12 @@ print(nathija.get_availability())
   
 </div>
 
-### 📅 2025 Roadmap
+### 📅 2026 Roadmap
 
 <div align="center">
   
   <img src="https://img.shields.io/badge/✅-Master%20React%20Ecosystem-success?style=for-the-badge" alt="Goal 1"/>
-  <img src="https://img.shields.io/badge/🚀-Build%205%20Projects-blue?style=for-the-badge" alt="Goal 2"/>
+  <img src="https://img.shields.io/badge/🚀-Build%2010%20Projects-blue?style=for-the-badge" alt="Goal 2"/>
   <img src="https://img.shields.io/badge/📱-Launch%20Mobile%20App-orange?style=for-the-badge" alt="Goal 3"/>
   <img src="https://img.shields.io/badge/🌟-Open%20Source-purple?style=for-the-badge" alt="Goal 4"/>
   

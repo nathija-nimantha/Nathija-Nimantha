@@ -129,12 +129,13 @@ print(nathija.introduce_myself())
 
 ---
 
-## 📊 GitHub Performance
+## <p align="center">📊 GitHub Performance</p>
 
-![GitHub Stats](https://github-cards-steel.vercel.app/api/stats?username=nathija-nimantha&theme=tokyonight)
-![Top Languages](https://github-cards-steel.vercel.app/api/langs?username=nathija-nimantha&theme=tokyonight&count=6)
-![GitHub Streak](https://github-cards-steel.vercel.app/api/streak?username=nathija-nimantha&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-cards-steel.vercel.app/api/stats?username=nathija-nimantha&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-cards-steel.vercel.app/api/langs?username=nathija-nimantha&theme=tokyonight&count=6" alt="Top Languages" />
+  <img src="https://github-cards-steel.vercel.app/api/streak?username=nathija-nimantha&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 

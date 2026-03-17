@@ -28,17 +28,10 @@ class Developer:
         
     def introduce_myself(self):
         return f"Hi! I'm {self.name}, a passionate {self.role} from {self.location}"
-        
-    def get_availability(self):
-        return f"Status: {self.status} ✨"
-        
-    def debug_like_sherlock(self):
-        return "🔍 Elementary, my dear Watson! The bug is in line..."
 
 # Initialize developer instance
 nathija = Developer()
 print(nathija.introduce_myself())
-print(nathija.get_availability())
 ```
 
 <div align="center">
